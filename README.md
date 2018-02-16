@@ -10,5 +10,5 @@ Currently designed to serve four locations in Colorado - perfect for the upcomin
 
 This app is built using MERN stack - Mongodb, Express, React.js and Node.js
 
-To see a live demo of this application, please visit: (COMING SOON!)
+To see a live demo of this application, please visit: (https://fierce-basin-22052.herokuapp.com/)
 
